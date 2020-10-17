@@ -2,9 +2,6 @@
 
 _Part of ACM Hacktoberfest 2020_
 
-**Note to organizers: Replace anything in brackets with the actual content of your workshop.**
-**This should not look like a template repository when you're done.**
-
 ## Overview
 
 [ACM Hacktoberfest](https://hacktoberfest.acmutd.co) is a one-day event celebrating open source with workshops
@@ -25,4 +22,4 @@ In this workshop, participants will be able to pull in data from Yahoo Finance f
 
 ## Deployment
 
-After your pull request is approved, you'll be able to see the finished product [at this location or by these means].
+After your pull request is approved, you'll be able to see the finished product at `acmutd.co/research/infographics/{your stock ticker}`.
